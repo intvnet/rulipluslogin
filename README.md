@@ -10,6 +10,7 @@
 *JS Window.postMessage() use ID info Data send*
 
 ### How to receive Data
-*JS addEventListener() use data recive  (eventType = message)*
+*JS addEventListener() use data recive  
+(eventType = message)*
 
 ### response data
