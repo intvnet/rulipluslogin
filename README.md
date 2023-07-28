@@ -4,21 +4,20 @@
 ```
 <script src="https://ruliplus.com/playasia/SDiu349sdzA/sign.js"></script>
 ```
-
+<br><br>
 ### ※ ID info requset Method
-**ruliplus_sign.get_member_info()**
-
+**ruliplus_sign.get_member_info()**<br>
 *JS Window.postMessage() use ID info Data send*
 #### **req URL (only)**
 **https://www.play-asia.com/<br>**
 or<br>
 **https://play-asia.com/**
-
+<br><br>
 
 ### ※ How to receive Data
 *JS addEventListener() use data recive  
 (eventType = message)*
-
+<br><br>
 ### ※ response JSON data
 |parameter|type||
 |---|---|---|
