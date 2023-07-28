@@ -7,6 +7,7 @@
 
 ### ※ ID info requset Method
 **ruliplus_sign.get_member_info()**
+
 *JS Window.postMessage() use ID info Data send*
 #### **req URL**
 **https://www.play-asia.com/<br>**
