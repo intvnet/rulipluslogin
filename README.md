@@ -23,3 +23,6 @@ or<br>
 |---|---|---|
 |result|Int|status code <br>*200* : success <br> *401* : Unauthorized|
 |response|Array| *mb_id(str)* : user id(ruliplus) <br> *mb_name(str)* : user name <br> *mb_email(str)* : user e-mail address <br> *mb_hp(str)* : user cellphone number ex.010-1234-1234 <br> *mb_zip(str)* : user address zip code <br> *mb_addr1(str)* : user Street Address <br> *mb_addr2(str)* : user 2nd Address line <br> |
+
+<br><br>
+### Example code (sample.html)
