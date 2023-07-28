@@ -8,10 +8,10 @@
 ### ※ID info requset Method
 **ruliplus_sign.get_member_info()**
 *JS Window.postMessage() use ID info Data send*
-####** req URL 
+#### ** req URL 
 https://www.play-asia.com/
 https://play-asia.com/
-**####
+** ####
 
 ### ※How to receive Data
 *JS addEventListener() use data recive  
