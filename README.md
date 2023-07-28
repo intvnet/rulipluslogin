@@ -9,7 +9,7 @@
 **ruliplus_sign.get_member_info()**
 
 *JS Window.postMessage() use ID info Data send*
-#### **req URL**
+#### **req URL (only)**
 **https://www.play-asia.com/<br>**
 or<br>
 **https://play-asia.com/**
