@@ -7,6 +7,7 @@
 
 ### ID info requset Method
 **ruliplus_sign.get_member_info()**
+
 *JS Window.postMessage() use ID info Data send*
 
 ### How to receive Data
