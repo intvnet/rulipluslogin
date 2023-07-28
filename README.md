@@ -16,4 +16,7 @@
 
 ### -response data
 |parameter|type||
-|result|Intiger|status code   *200* : success   *401* : Unauthorized|
+|---|---|---|
+|result|Intiger|status code  
+*200* : success 
+*401* : Unauthorized|
